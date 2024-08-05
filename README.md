@@ -1,6 +1,4 @@
-![image]
-​
-​
+
 **BUILDING A MOVIE RECOMMENDATION SYSTEM USING COLLABORATIVE FILTERING**
 ​
 This repository contains the following
